@@ -1,2 +1,2 @@
-# Taubeninformationen-
+# Taubeninformationen
 Eine Sammlung an Taubeninformationen 
