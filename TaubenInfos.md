@@ -1,10 +1,10 @@
 # Hier gibt es ein paar Taubeninfos
 
-Die PDF-Datei gibt es [hier](TaubenInfos/Taubenpaepplerkurs.pdf). 
+Die PDF-Datei gibt es [hier](utils/Taubenpaepplerkurs.pdf). 
 
 # Taubenpäpplerkurs 2019  
 in der  
-![TA Logo](TaubenInfos/TA.jpeg)  
+![TA Logo](utils/TA.jpeg)  
 in Warendorf
 
 **Datum:** 16. März 2019
@@ -22,7 +22,7 @@ in Warendorf
 
 
 <div style="text-align: center;">
-  <img src="TaubenInfos/maehnentaube.jpg" alt="Caloenas nicobarica" width="500"/>
+  <img src="utils/maehnentaube.jpg" alt="Caloenas nicobarica" width="500"/>
 </div>
 *Abbildung: Caloenas nicobarica.*
 
@@ -49,7 +49,7 @@ in Warendorf
 - Fütterung von Küken über Bechermethode (Becher mit überstülptem Handschuh mit Loch, bei dem Küken Schnabel durchsteckt und selber Brei ansaugt) oder Sonde (Sonde oben/seitlich dem Gaumen entlang einführen bis zum Kropf, damit wird Luftröhre vermieden)
 
 <div style="text-align: center;">
-  <img src="TaubenInfos/1.jpg" alt="Ein Stadttaubenküken wird gefüttert." width="400"/>
+  <img src="utils/1.jpg" alt="Ein Stadttaubenküken wird gefüttert." width="400"/>
 </div>
 
 ## Ein Küken
@@ -57,11 +57,11 @@ in Warendorf
 Hier gibt es eine ganz tolle Zusammenfassung der [Entwicklung von Küken](https://www.stadttaubenwien.at/wie-sehen-taubenkueken-aus-.html).
 
 <div style="text-align: center;">
-  <img src="TaubenInfos/2.jpg" alt="Ein Stadttaubenküken." width="400"/>
+  <img src="utils/2.jpg" alt="Ein Stadttaubenküken." width="400"/>
 </div>
 
 ## Und denkt daran...
 
 ...alle wollen leben...daher go vegan!
 
-![Alle wollen leben.](TaubenInfos/allewollenleben.jpg)
+![Alle wollen leben.](utils/allewollenleben.jpg)
